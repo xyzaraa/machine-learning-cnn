@@ -62,7 +62,7 @@ model = load_model(model_path)
     
 ## Running Tests
 
-To run tests, run the following command
+To run tests, run the following code:
 
 ```python
 predict_image(<file_path>, model)
