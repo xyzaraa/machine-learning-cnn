@@ -1,5 +1,10 @@
-Food Image Recognition Using CNN Inception V3
+# Food Image Recognition Using CNN Inception V3
 
+## Authors
+
+- [@xyzaraa](https://github.com/xyzaraa)
+- [@alviyalaela](https://github.com/alviyalaela)
+- [@Zahwabmz1562](https://github.com/Zahwabmz1562)
 
 ## Dependencies
 
@@ -18,12 +23,7 @@ You can install all Dependencies using the following command:
 pip install -r requirements.txt
 ```
 
-Ensure you have a requirements.txt file in your repository listing all the dependencies.
-## Authors
-
-- [@xyzaraa](https://github.com/xyzaraa)
-- [@alviyalaela](https://github.com/alviyalaela)
-- [@Zahwabmz1562](https://github.com/Zahwabmz1562)
+Ensure you have a requirements.txt file in your repository listing all the dependencies
 
 
 
