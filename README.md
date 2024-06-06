@@ -1,11 +1,5 @@
 # Food Image Recognition Using CNN Inception V3
 
-## Authors
-
-- [@xyzaraa](https://github.com/xyzaraa)
-- [@alviyalaela](https://github.com/alviyalaela)
-- [@Zahwabmz1562](https://github.com/Zahwabmz1562)
-
 ## Dependencies
 
 - TensorFlow
